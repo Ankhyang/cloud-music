@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { IconStyle } from './assets/iconfont/iconfont'
+import { GlobalStyle } from './style'
 
 function App() {
   return (
